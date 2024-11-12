@@ -1,0 +1,22 @@
+INSERT INTO products (productName, productDescription, price, inStock, createdAt)
+VALUES
+('Apple iPhone 14', 'The latest iPhone with A15 Bionic chip and 128GB storage.', 999.99, 25, NOW()),
+('Samsung Galaxy S23', 'Flagship Android smartphone with 6.1-inch Dynamic AMOLED display.', 849.99, 30, NOW()),
+('Sony WH-1000XM5', 'Noise-cancelling over-ear headphones with 30 hours of battery life.', 349.99, 15, NOW()),
+('Dell XPS 13', '13.3-inch ultra-thin laptop with Intel i7 and 512GB SSD.', 1199.99, 12, NOW()),
+('Nintendo Switch', 'Hybrid gaming console that can be used as a handheld or connected to a TV.', 299.99, 50, NOW()),
+('Apple MacBook Pro 16"', 'High-performance laptop with M2 Pro chip and 1TB SSD.', 2499.99, 8, NOW()),
+('Google Pixel 8', 'Google’s flagship smartphone with pure Android experience and 128GB storage.', 699.99, 22, NOW()),
+('Amazon Kindle Paperwhite', 'Waterproof e-reader with adjustable warm light and 8GB storage.', 139.99, 40, NOW()),
+('Bose SoundLink Revolve+', 'Portable Bluetooth speaker with 360-degree sound and IPX4 water resistance.', 299.95, 18, NOW()),
+('Fitbit Charge 5', 'Advanced health and fitness tracker with built-in GPS and heart rate monitor.', 149.99, 35, NOW()),
+('Canon EOS R6', 'Mirrorless camera with 20.1MP full-frame sensor and 4K video recording.', 2499.00, 10, NOW()),
+('DJI Mavic Air 2', 'Compact drone with 48MP camera and 4K video capabilities.', 799.00, 5, NOW()),
+('Samsung Galaxy Watch 6', 'Smartwatch with advanced fitness tracking and 40mm display.', 299.99, 20, NOW()),
+('Microsoft Surface Pro 9', '2-in-1 detachable laptop with 12.3-inch touchscreen and Intel i5 processor.', 999.99, 16, NOW()),
+('PlayStation 5', 'Next-gen gaming console with ultra-high-speed SSD and 4K gaming.', 499.99, 7, NOW()),
+('Logitech MX Master 3', 'Ergonomic wireless mouse with customizable buttons and precision scroll wheel.', 99.99, 45, NOW()),
+('Apple AirPods Pro', 'Wireless earbuds with active noise cancellation and spatial audio.', 249.00, 25, NOW()),
+('Asus ROG Strix G15', 'High-performance gaming laptop with AMD Ryzen 9 and 1TB SSD.', 1799.99, 11, NOW()),
+('GoPro HERO11 Black', 'Action camera with 5.3K video resolution and waterproof design.', 499.99, 20, NOW()),
+('Garmin Fenix 7', 'Premium multisport GPS smartwatch with solar charging capabilities.', 699.99, 14, NOW());

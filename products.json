@@ -1,0 +1,474 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "description": "Description of product 1.",
+    "price": 23.75,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 99,
+    "rating": 3.6,
+    "reviews": [
+      {
+        "user": "User1A",
+        "comment": "Comment for product 1 by user A.",
+        "rating": 3.1
+      },
+      {
+        "user": "User1B",
+        "comment": "Comment for product 1 by user B.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "description": "Description of product 2.",
+    "price": 27.5,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 98,
+    "rating": 3.7,
+    "reviews": [
+      {
+        "user": "User2A",
+        "comment": "Comment for product 2 by user A.",
+        "rating": 3.2
+      },
+      {
+        "user": "User2B",
+        "comment": "Comment for product 2 by user B.",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "description": "Description of product 3.",
+    "price": 31.25,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 97,
+    "rating": 3.8,
+    "reviews": [
+      {
+        "user": "User3A",
+        "comment": "Comment for product 3 by user A.",
+        "rating": 3.3
+      },
+      {
+        "user": "User3B",
+        "comment": "Comment for product 3 by user B.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "description": "Description of product 4.",
+    "price": 35,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 96,
+    "rating": 3.9,
+    "reviews": [
+      {
+        "user": "User4A",
+        "comment": "Comment for product 4 by user A.",
+        "rating": 3.4
+      },
+      {
+        "user": "User4B",
+        "comment": "Comment for product 4 by user B.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "description": "Description of product 5.",
+    "price": 38.75,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 95,
+    "rating": 4,
+    "reviews": [
+      {
+        "user": "User5A",
+        "comment": "Comment for product 5 by user A.",
+        "rating": 3.5
+      },
+      {
+        "user": "User5B",
+        "comment": "Comment for product 5 by user B.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "description": "Description of product 6.",
+    "price": 42.5,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 94,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "user": "User6A",
+        "comment": "Comment for product 6 by user A.",
+        "rating": 3.6
+      },
+      {
+        "user": "User6B",
+        "comment": "Comment for product 6 by user B.",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "description": "Description of product 7.",
+    "price": 46.25,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 93,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "user": "User7A",
+        "comment": "Comment for product 7 by user A.",
+        "rating": 3.7
+      },
+      {
+        "user": "User7B",
+        "comment": "Comment for product 7 by user B.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "description": "Description of product 8.",
+    "price": 50,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 92,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "user": "User8A",
+        "comment": "Comment for product 8 by user A.",
+        "rating": 3.8
+      },
+      {
+        "user": "User8B",
+        "comment": "Comment for product 8 by user B.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "description": "Description of product 9.",
+    "price": 53.75,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 91,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "user": "User9A",
+        "comment": "Comment for product 9 by user A.",
+        "rating": 3.9
+      },
+      {
+        "user": "User9B",
+        "comment": "Comment for product 9 by user B.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "description": "Description of product 10.",
+    "price": 57.5,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 90,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "user": "User10A",
+        "comment": "Comment for product 10 by user A.",
+        "rating": 4
+      },
+      {
+        "user": "User10B",
+        "comment": "Comment for product 10 by user B.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "description": "Description of product 11.",
+    "price": 61.25,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 89,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "user": "User11A",
+        "comment": "Comment for product 11 by user A.",
+        "rating": 4.1
+      },
+      {
+        "user": "User11B",
+        "comment": "Comment for product 11 by user B.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "description": "Description of product 12.",
+    "price": 65,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 88,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "user": "User12A",
+        "comment": "Comment for product 12 by user A.",
+        "rating": 4.2
+      },
+      {
+        "user": "User12B",
+        "comment": "Comment for product 12 by user B.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "description": "Description of product 13.",
+    "price": 68.75,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 87,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "user": "User13A",
+        "comment": "Comment for product 13 by user A.",
+        "rating": 4.3
+      },
+      {
+        "user": "User13B",
+        "comment": "Comment for product 13 by user B.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "description": "Description of product 14.",
+    "price": 72.5,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 86,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "user": "User14A",
+        "comment": "Comment for product 14 by user A.",
+        "rating": 4.4
+      },
+      {
+        "user": "User14B",
+        "comment": "Comment for product 14 by user B.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "description": "Description of product 15.",
+    "price": 76.25,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 85,
+    "rating": 5,
+    "reviews": [
+      {
+        "user": "User15A",
+        "comment": "Comment for product 15 by user A.",
+        "rating": 4.5
+      },
+      {
+        "user": "User15B",
+        "comment": "Comment for product 15 by user B.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "description": "Description of product 16.",
+    "price": 80,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 84,
+    "rating": 5.1,
+    "reviews": [
+      {
+        "user": "User16A",
+        "comment": "Comment for product 16 by user A.",
+        "rating": 4.6
+      },
+      {
+        "user": "User16B",
+        "comment": "Comment for product 16 by user B.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "description": "Description of product 17.",
+    "price": 83.75,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 83,
+    "rating": 5.2,
+    "reviews": [
+      {
+        "user": "User17A",
+        "comment": "Comment for product 17 by user A.",
+        "rating": 4.7
+      },
+      {
+        "user": "User17B",
+        "comment": "Comment for product 17 by user B.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "description": "Description of product 18.",
+    "price": 87.5,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 82,
+    "rating": 5.3,
+    "reviews": [
+      {
+        "user": "User18A",
+        "comment": "Comment for product 18 by user A.",
+        "rating": 4.8
+      },
+      {
+        "user": "User18B",
+        "comment": "Comment for product 18 by user B.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "description": "Description of product 19.",
+    "price": 91.25,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 81,
+    "rating": 5.4,
+    "reviews": [
+      {
+        "user": "User19A",
+        "comment": "Comment for product 19 by user A.",
+        "rating": 4.9
+      },
+      {
+        "user": "User19B",
+        "comment": "Comment for product 19 by user B.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "description": "Description of product 20.",
+    "price": 95,
+    "currency": "USD",
+    "category": "Category",
+    "brand": "BrandName",
+    "stock": 80,
+    "rating": 5.5,
+    "reviews": [
+      {
+        "user": "User20A",
+        "comment": "Comment for product 20 by user A.",
+        "rating": 5
+      },
+      {
+        "user": "User20B",
+        "comment": "Comment for product 20 by user B.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Jacket",
+    "description": "A leather jacket",
+    "price": 199.99
+  },
+  {
+    "id": 21,
+    "name": "Floodlight",
+    "description": "A smart Floodlight",
+    "price": 299.99
+  }
+]
